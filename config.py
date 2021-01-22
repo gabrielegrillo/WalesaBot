@@ -34,13 +34,12 @@ wal_images = ["https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Lech_Wa
              "https://g.gazetaprawna.pl/p/_wspolne/pliki/4335000/4335067-lech-walesa-podczas-konwencji.jpg",
              "https://www.tv2000.it/tgtg/wp-content/uploads/sites/17/2018/11/lech-walesa-70451068.jpg",
              "https://biografieonline.it/img/bio/Lech_Walesa_1.jpg",
-	         "https://i.imgur.com/IM841Kd.jpg",
-	         "https://i.imgur.com/NDGLTc7.jpg",
-	         "https://i.imgur.com/MhNip68.jpg",
+	     "https://i.imgur.com/IM841Kd.jpg",
+	     "https://i.imgur.com/NDGLTc7.jpg",
+	     "https://i.imgur.com/MhNip68.jpg",
              "https://i.imgur.com/GlTJp3i.png",
              "https://media.discordapp.net/attachments/689093259145904194/716796478164697088/unknown.png",
              "https://media.discordapp.net/attachments/689093259145904194/716014657122336788/unknown.png",
-             "",
              "https://media.discordapp.net/attachments/689093259145904194/717136866855616572/unknown.png?width=388&height=683"]
 
 bestemmie = ["gli apostoli teletubbies"
