@@ -91,6 +91,11 @@ async def latinus(ctx, *, testo):
     res = translator.translate(testo, dest='la')
     await ctx.send(res.text)
 
+@bot.command()
+async def quanti_cristiani(ctx):
+    await ctx.send("Ecco quanti cristiani ci su supra u server: " + str(len(ctx.guild.members)))
+
+
 def get_Cases():
     dati = []
     listT = []
